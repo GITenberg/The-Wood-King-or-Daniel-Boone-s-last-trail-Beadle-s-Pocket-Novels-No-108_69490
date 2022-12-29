@@ -1,5 +1,8 @@
 _repo: The-Wood-King-or-Daniel-Boone-s-last-trail-Beadle-s-Pocket-Novels-No-108_69490
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69490-h/images/cover.jpg
 creator:
   author:
     agent_name: Badger, Jos. E. (Joseph Edward)
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '413'
     url: http://www.gutenberg.org/2009/agents/413
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69490#The-Wood-King-or-Daniel-Boone-s-last-trail-Beadle-s-Pocket-Novels-No-108
 gutenberg_issued: '2022-12-07'
 identifiers:
   gutenberg: '69490'
